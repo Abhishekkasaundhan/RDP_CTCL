@@ -1,0 +1,10 @@
+ABC,abhi@167
+XYZ,abhi@12
+MNO,abhi@123
+QRS,abhi@234
+UVW,abhi@458
+TIG,abhi@568
+YUV,abhi@679
+YAS,abhi@789
+SHI,abhi@294
+APP,abhi@203
